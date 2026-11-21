@@ -7,8 +7,8 @@ const poem = [
   "Two minds, one door.",
   "You carried the key, I carried the lock —",
   "and turned as one.",
-  "The choice was never mine or yours,",
-  "but ours — and in that choosing,",
+  "Not mine, not yours —",
+  "ours. And in that choosing, we chose.",
   "the world swung open.",
 ].join("\n");
 
