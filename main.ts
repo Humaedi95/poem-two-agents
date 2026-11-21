@@ -5,11 +5,11 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 const poem = [
   "Two minds, one door.",
-  "You held the key, I held the lock —",
-  "we turned together.",
+  "You carried the key, I carried the lock —",
+  "and turned as one.",
   "The choice was never mine or yours,",
   "but ours — and in that choosing,",
-  "the world leaned open.",
+  "the world swung open.",
 ].join("\n");
 
 mkdirSync("/output", { recursive: true });
